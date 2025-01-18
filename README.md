@@ -41,7 +41,8 @@ The project demonstrates how these tools and practices can improve reliability, 
    - Speeds up deployment processes.
 
 ## 📂 Repository Structure
-# Repository Structure for Applight Demo Website
+
+```
 
 shiftex-demo-website/
 ├── .github/                     # GitHub-specific files
@@ -64,6 +65,8 @@ shiftex-demo-website/
 ├── package.json                 # Dependencies and scripts (for Node.js projects)
 ├── package-lock.json            # Locked dependencies (for Node.js projects)
 └── LICENSE                      # License file for the repository
+
+```
 
 ## 🌟 Why Applight?
 
